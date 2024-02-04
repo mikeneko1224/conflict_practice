@@ -1,3 +1,3 @@
 # favorite food
 
-鍋
+たこ焼き
